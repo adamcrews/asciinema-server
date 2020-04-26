@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'SauceCodePro Nerd Font';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Sauce Code Pro Medium Nerd Font Complete'), local('SauceCodeProNerdFontComplete-Medium'), url('/fonts/SauceCodeProNerdFontComplete-Medium.ttf') format('truetype');
+}

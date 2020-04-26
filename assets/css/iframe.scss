@@ -1,6 +1,7 @@
 @import "./_source_sans_pro.css";
 @import "../css/asciinema-player.css";
 @import "./powerline-symbols.css";
+@import "./saucecode-nerdfonts.css";
 
 html {
   padding: 0;
@@ -34,7 +35,7 @@ body.iframe {
     margin: 4px 0 0 0;
     text-align: right;
     font-size: 12px;
-    font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif, "SauceCodePro Nerd Font";
 
     a {
       font-weight: 600;
